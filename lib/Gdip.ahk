@@ -66,6 +66,8 @@ class Gdip
 	
 	#Include Size.ahk
 	
+	#include Rect.ahk
+	
 	#Include Zip.ahk
 	
 	#Include Bitmap.ahk
